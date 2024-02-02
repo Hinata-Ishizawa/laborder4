@@ -32,7 +32,8 @@ and the path to 消耗品価格表.xlsx and 発注履歴.xlsx. Input the **absol
 ```
 Input path to '消耗品価格表.xlsx':
 
-Input path to '発注履歴.xlsx': 
+Input path to '発注履歴.xlsx':
+
 ```
 
 `laborder4` writes these to output/config.ini and refer this file.
