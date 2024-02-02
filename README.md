@@ -37,4 +37,4 @@ Input path to '発注履歴.xlsx':
 
 `laborder4` writes these to output/config.ini and refer this file.
 
-`laborder4` searches goods information in 消耗品価格表.xlsx, writes an email message for ordering, and summarizes order information in 
+`laborder4` searches goods information in 消耗品価格表.xlsx, writes an email message for ordering, and summarizes order information in order_info.xlsx.
