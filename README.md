@@ -11,7 +11,7 @@
 
 ### Install `laborder4`
 ```
-git clone git@github.com:Hinata-Ishizawa/laborder3.git
+git clone git@github.com:Hinata-Ishizawa/laborder4.git
 ```
 
 ## Usage
